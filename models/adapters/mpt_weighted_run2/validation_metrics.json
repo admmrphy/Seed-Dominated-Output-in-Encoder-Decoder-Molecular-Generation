@@ -1,0 +1,12 @@
+{
+  "validity": 1.0,
+  "uniqueness": 1.0,
+  "novelty": 1.0,
+  "scaffold_diversity": 0.57,
+  "qed_mean": 0.33553306445648046,
+  "fsp3_mean": 0.5080967726759558,
+  "logp_mean": 5.4611455000000015,
+  "mw_mean": 365.170745,
+  "esol_mean": -4.8788702840000004,
+  "internal_diversity": 0.9167031543678029
+}

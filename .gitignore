@@ -1,0 +1,5 @@
+*.bin
+*.safetensors
+!models/adapters/**/*.safetensors
+__pycache__/
+.ipynb_checkpoints/
