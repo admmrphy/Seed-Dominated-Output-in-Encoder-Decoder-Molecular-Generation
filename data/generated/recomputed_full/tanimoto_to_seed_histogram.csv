@@ -1,0 +1,41 @@
+condition,bin,pct_of_outputs
+finetuned_standard,"(-0.001, 0.2]",0.51
+finetuned_standard,"(0.2, 0.4]",2.8366666666666664
+finetuned_standard,"(0.4, 0.6]",6.423333333333334
+finetuned_standard,"(0.6, 0.7]",7.616666666666666
+finetuned_standard,"(0.7, 0.8]",7.203333333333334
+finetuned_standard,"(0.8, 0.9]",1.39
+finetuned_standard,"(0.9, 0.95]",0.016666666666666666
+finetuned_standard,"(0.95, 0.99]",0.0
+finetuned_standard,"(0.99, 1.0]",74.00333333333333
+finetuned_standard,exactly 1.0 (verbatim copy),74.00333333333333
+finetuned_weighted,"(-0.001, 0.2]",0.6266666666666667
+finetuned_weighted,"(0.2, 0.4]",3.5366666666666666
+finetuned_weighted,"(0.4, 0.6]",7.64
+finetuned_weighted,"(0.6, 0.7]",7.7299999999999995
+finetuned_weighted,"(0.7, 0.8]",7.71
+finetuned_weighted,"(0.8, 0.9]",1.4233333333333333
+finetuned_weighted,"(0.9, 0.95]",0.02
+finetuned_weighted,"(0.95, 0.99]",0.0
+finetuned_weighted,"(0.99, 1.0]",71.31333333333333
+finetuned_weighted,exactly 1.0 (verbatim copy),71.31333333333333
+mpt_standard,"(-0.001, 0.2]",98.8
+mpt_standard,"(0.2, 0.4]",1.1933333333333334
+mpt_standard,"(0.4, 0.6]",0.006666666666666667
+mpt_standard,"(0.6, 0.7]",0.0
+mpt_standard,"(0.7, 0.8]",0.0
+mpt_standard,"(0.8, 0.9]",0.0
+mpt_standard,"(0.9, 0.95]",0.0
+mpt_standard,"(0.95, 0.99]",0.0
+mpt_standard,"(0.99, 1.0]",0.0
+mpt_standard,exactly 1.0 (verbatim copy),0.0
+mpt_weighted,"(-0.001, 0.2]",98.92666666666666
+mpt_weighted,"(0.2, 0.4]",1.0733333333333333
+mpt_weighted,"(0.4, 0.6]",0.0
+mpt_weighted,"(0.6, 0.7]",0.0
+mpt_weighted,"(0.7, 0.8]",0.0
+mpt_weighted,"(0.8, 0.9]",0.0
+mpt_weighted,"(0.9, 0.95]",0.0
+mpt_weighted,"(0.95, 0.99]",0.0
+mpt_weighted,"(0.99, 1.0]",0.0
+mpt_weighted,exactly 1.0 (verbatim copy),0.0

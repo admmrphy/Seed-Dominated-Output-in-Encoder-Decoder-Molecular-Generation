@@ -1,0 +1,5 @@
+condition,train,total
+finetuned_standard,30000,30000
+finetuned_weighted,30000,30000
+mpt_standard,30000,30000
+mpt_weighted,30000,30000
